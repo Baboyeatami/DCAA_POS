@@ -3,3 +3,4 @@
 -mananger account everything except useraccount, add student, student credit
 -special price
 -pos student name
+-NFC card update 
