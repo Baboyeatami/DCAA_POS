@@ -1,0 +1,5 @@
+-sales invoice subtotal updates base on filter
+-item update cost data
+-mananger account everything except useraccount, add student, student credit
+-special price
+-pos student name
